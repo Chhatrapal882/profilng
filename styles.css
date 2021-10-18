@@ -26,6 +26,7 @@
     justify-content: center;
     margin: 0px auto;
     max-inline-size: -webkit-fill-available;
+    width:300px;
 }
 .heading-inverted{
     color:#0035BF ;
@@ -70,4 +71,7 @@
 }
 .list-item-inline{
     padding: 0px 30px ;
+}
+.insta-btn{
+    cursor: pointer;
 }

@@ -1,0 +1,30 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0035BF;
+    color: white;
+    padding: 1rem;
+}
+.list-non-bullet{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0035BF;
+
+}
+.list-item-inline{
+    list-style: none;
+    
+    
+}
+.list-item-inline a{
+    text-decoration: none;
+    background-color: #0035BF;
+    color: white;
+    list-style: none;
+    padding: 0px 10px;
+
+}   
+.nav-brand{
+    background-color: #0035BF;
+    font-weight: bold;
+}
